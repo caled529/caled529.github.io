@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 30, 30);
+    color: cyan;
+    font-family: Calibri, sans-sarif;
+  }
+
+  h1 {
+    
+    font-size: 22px;
+  }
+
+  p {
+    font-size: 18px;
+  }
