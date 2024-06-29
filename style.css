@@ -1,18 +1,29 @@
 body {
-    background-color: rgb(0, 30, 30);
-    color: cyan;
-    font-family: Calibri, sans-sarif;
-  }
+  background-color: rgb(30, 30, 30);
+  color: rgb(225, 225, 225);
+  font-family: "Fira Code", "Courier New", monospace;
+}
 
-  h1 {
-    
-    font-size: 22px;
-  }
+h2 {
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  min-width: 800px;
+  width: 40%;
+}
 
-  p {
-    font-size: 18px;
-  }
+p {
+  margin: auto;
+  min-width: 800px;
+  width: 40%;
+}
 
- a {
-    color: cyan;
-  }
+a:link {
+  color:rgb(50, 60, 225);
+  text-decoration: none;
+}
+
+a:visited {
+  color:rgb(225, 0, 225);
+  text-decoration: none;
+}
